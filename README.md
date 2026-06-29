@@ -30,5 +30,5 @@ El módulo trabaja con dos entradas binarias de 2 bits, A = A1A0 y B = B1B0. Per
 
 La simulación fue realizada en Tinkercad Circuits.
 
-Enlace a Tinkercad: PEGAR AQUÍ EL LINK DE LA SIMULACIÓN
+https://www.tinkercad.com/things/9lLJvujSNui/editel?returnTo=%2Fthings%2F0BjjtwsNb8R-fabulous-gogo-blad&sharecode=AAxhi3xjieinKsk2frEJwhTqn1TPuj2EXHZpA3yHJcw
 
